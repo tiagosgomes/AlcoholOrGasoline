@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alcohol Or Gasoline</string>
+    <string name="alcoolPreco">Alcohol Price</string>
+    <string name="botaoTexto">Verify</string>
+    <string name="gasolinaPreco">Gasoline Price</string>
+    <string name="textoPadrao">Enter the values above and click to verify.</string>
+    <string name="valorHint">1.99</string>
+    <string name="utilizarPonto">(Use point)</string>
+</resources>

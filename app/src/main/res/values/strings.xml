@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="alcoolPreco">Preço do Álcool</string>
+    <string name="gasolinaPreco">Preço da Gasolina</string>
+    <string name="botaoTexto">Verificar</string>
+    <string name="valorHint">1.99</string>
+    <string name="textoPadrao">Digite os valores acima e clique em verificar!</string>
+    <string name="utilizarPonto">(Utilizar ponto)</string>
+</resources>
